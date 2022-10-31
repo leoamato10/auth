@@ -39,7 +39,7 @@ class _MyDataState extends State<MyData> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Futter Demo'),
+        title: Text('Futter Firestore Test'),
       ),
       body: Center(child: UserInformation()),
     );
